@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Student Result Management System
 
 A Python-based command-line application designed for secondary schools and educational centers to manage student records, record subject scores, compute academic standings, and generate persistent reports.
@@ -10,6 +10,6 @@ A Python-based command-line application designed for secondary schools and educa
 - **Data Persistence**: Automatically stores and loads data using JSON files.
 
 ## Project Structure
-=======
+
 # Student_result_management_system
->>>>>>> 3a03723b670f5ffa0c17419c7a682380344e8ddd
+ 3a03723b670f5ffa0c17419c7a682380344e8ddd
